@@ -2,9 +2,6 @@
 ### Leveraging intel-oneAPI
 
 
-#### Problem Statement - Object Detection For Autonomous Vehicles <img src = "https://github.com/SneakyTurtIe/intel-oneAPI/assets/59119736/549af82b-79e6-436a-b067-2e83641a9095" height = "50px">
-
-
 
 ## <img src = "https://github.com/SneakyTurtIe/intel-oneAPI/assets/59119736/80522c5e-f814-4c3d-906a-e5518ccdd150" height = "50px" > A Brief of the Prototype:
   
